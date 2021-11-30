@@ -1,2 +1,3 @@
-# technical_writing_resources
-Resources for writing technical documentation.
+# Technical Writing Resources
+
+This repository collects resources for writing technical documentation.
